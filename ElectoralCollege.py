@@ -44,8 +44,6 @@ plt.show()
 #this shows the people in Wyoming have almost 4 times as many electoral college votes per person as in Texas
 
 
-
-
 #The next section will break down electoral votes by winning political party
 
 '''
