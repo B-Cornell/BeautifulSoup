@@ -30,5 +30,4 @@ for statenumber in range(52):
         statenameslist.append(statename)
 plt.bar(np.arange(50), stateseatslist, .5)
 plt.show()
-
 #'''
